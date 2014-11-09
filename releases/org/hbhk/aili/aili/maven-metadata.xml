@@ -3,10 +3,9 @@
   <groupId>org.hbhk.aili</groupId>
   <artifactId>aili</artifactId>
   <versioning>
-    <release>1.0.0</release>
     <versions>
-      <version>1.0.0</version>
+      <version>1.0.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140807060820</lastUpdated>
+    <lastUpdated>20141109050928</lastUpdated>
   </versioning>
 </metadata>
